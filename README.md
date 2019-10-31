@@ -3,10 +3,10 @@
 ### Author: Vinh Hoang
 ### Google Drive: tbd
 ### Team structure
-Team 1:
-Team 2:
-Team 3:
-Team 4:
+- Team 1:
+- Team 2:
+- Team 3:
+- Team 4:
 
 ## Agenda
 
@@ -75,11 +75,12 @@ Team 4:
     - Inputs of this phase
     - Outputs of this phase
     - How to perform testing
+      - Testing Life Cycle
       - Test strategy
       - Test plan
       - Test Case
     - Example of outputs
-   - Deployment
+  - Deployment
     - Who will invole in this phase
     - Responsibility of each role
     - Inputs of this phase
