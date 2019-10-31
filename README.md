@@ -19,12 +19,12 @@ Team 4:
   - Scrum
   - Sprial Model
 - Team discussion
- - Definition
- - Roles 
- - Phases / Components
- - Advantages
- - Disadvantages / Risk
- - Examples
+  - Definition
+  - Roles 
+  - Phases / Components
+  - Advantages
+  - Disadvantages / Risk
+  - Examples
 ### Week 2
  - Feasibility Report
  - Team discussion
@@ -50,7 +50,7 @@ Team 4:
       - Resources Management
       - Resource Management
     - Example of outputs
-   - Design
+  - Design
     - Techniques to design the application
     - Who will invole in this phase
     - Responsibility of each role
@@ -59,7 +59,7 @@ Team 4:
       - Mockup / Wireframe
       - Software Requirements Specifications
     - Example of outputs
-   - Implementation
+  - Implementation
     - Who will invole in this phase
     - Responsibility of each role
     - Inputs of this phase
@@ -69,7 +69,7 @@ Team 4:
       - Git
       - Requirement Traceability Matrix
     - Example of outputs
-   - Testing
+  - Testing
     - Who will invole in this phase
     - Responsibility of each role
     - Inputs of this phase
