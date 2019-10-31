@@ -1,0 +1,15 @@
+## Documents to find
+- Waterfall model
+- V Model
+- Scrum 
+- Spiral model
+- Feasibility report
+- Git
+- Source version control
+- UML
+  - Use case diagram
+  - Data flow diagram
+  - Flowchart
+  - Entity Diagram
+- Test Driven Development
+- XP Programming
