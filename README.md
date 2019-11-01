@@ -2,6 +2,7 @@
 
 ### Author: Vinh Hoang
 ### Google Drive: tbd
+### [Document](Documents.md)
 ### Team structure
 - Team 1:
 - Team 2:
@@ -58,6 +59,7 @@
     - Outputs of this phase
       - Mockup / Wireframe
       - Software Requirements Specifications
+      - UML Diagrams
     - Example of outputs
   - Implementation
     - Who will invole in this phase
@@ -78,7 +80,7 @@
       - Testing Life Cycle
       - Test strategy
       - Test plan
-      - Test Case
+      - Test case
     - Example of outputs
   - Deployment
     - Who will invole in this phase
@@ -91,7 +93,6 @@
   - Use case diagram
   - Data Flow digram
   - Entity Relationship diagram
-  - Flowchart
 - Prototyping
   - Mockup
   - Wireframe
