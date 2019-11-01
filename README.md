@@ -94,12 +94,13 @@
     - Inputs of this phase
     - Outputs of this phase
     - Example of outputs
-### Week 4
+### Week 5
 - Approach to improve Software quality
   - Test Driven Development
   - XP Programming
 - Introduction to Assignments
-### Week 5 & 6
+### Week 6
 - Assignments 1 and 2
 ### Week 7 
+- Assignment 1 and 2 (cnt.)
 - Feedbacks and 2nd Chance
