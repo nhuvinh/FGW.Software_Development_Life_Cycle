@@ -34,7 +34,7 @@
     - Outputs
   - Components of a Feasibility Report
     - Give real examples
-### Week 3 - Steps to build a software application
+### Week 3 & 4 - Steps to build a software application
   - Requirements / Planning
     - Techniques to collect requirements
     - Who will invole in this phase
@@ -58,8 +58,14 @@
     - Inputs of this phase
     - Outputs of this phase
       - Mockup / Wireframe
+        - Prototyping
+        - Tools to make Mockup / Wireframe
       - Software Requirements Specifications
       - UML Diagrams
+        - Use case diagram
+        - Data Flow digram
+        - Entity Relationship diagram
+        - Finite State Machine
     - Example of outputs
   - Implementation
     - Who will invole in this phase
@@ -89,14 +95,6 @@
     - Outputs of this phase
     - Example of outputs
 ### Week 4
-- UML
-  - Use case diagram
-  - Data Flow digram
-  - Entity Relationship diagram
-- Prototyping
-  - Mockup
-  - Wireframe
-  - Tools to make Mockup / Wireframe
 - Approach to improve Software quality
   - Test Driven Development
   - XP Programming

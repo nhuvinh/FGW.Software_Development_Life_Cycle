@@ -1,4 +1,7 @@
-## Documents to find
+# References
+
+### Author: Vinh Hoang
+
 - [Introduction to Software Development Life Cycle](https://courses.cs.washington.edu/courses/cse403/15sp/lectures/L1.pdf)
 - Waterfall model
   - [Video](https://www.youtube.com/watch?v=LHcpEwvpb-s)
@@ -38,6 +41,8 @@
   - Entity Diagram
     - [Video 1](https://www.youtube.com/watch?v=QpdhBUYk7Kk)
     - [Video 2](https://www.youtube.com/watch?v=-CuY5ADwn24)
+  - Finite State Machine (FSM)
+    - [Video](https://www.youtube.com/watch?v=Qa6csfkK7_I)
 - [Test Driven Development](https://www.guru99.com/test-driven-development.html)
 - XP Programming
   - [Document](http://www.extremeprogramming.org/)
