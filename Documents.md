@@ -2,7 +2,7 @@
 
 ### Author: Vinh Hoang
 
-- [Introduction to Software Development Life Cycle](https://courses.cs.washington.edu/courses/cse403/15sp/lectures/L1.pdf)
+- [Introduction to Software Development Life Cycle](https://courses.cs.washington.edu/courses/cse403/15sp/lectures/L2.pdf)
 - Waterfall model
   - [Video](https://www.youtube.com/watch?v=LHcpEwvpb-s)
   - [Documents](https://www.slideshare.net/DamianGordon1/the-waterfall-model)
