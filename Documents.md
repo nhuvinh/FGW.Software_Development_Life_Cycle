@@ -17,6 +17,9 @@
 - Spiral model
   - [Video](https://www.youtube.com/watch?v=YfGvIhPXz1A)
   - [Documents](https://www.slideshare.net/DamianGordon1/the-spiral-model-80227066)
+- Rapid Application Development
+  - [Documents](https://www.slideshare.net/DamianGordon1/rapid-application-development-model-80626463)
+  - [Video](https://www.youtube.com/watch?v=G9V4-YBIb-E)
 - Feasibility report
   - [Document 1](http://ecomputernotes.com/software-engineering/feasibilitystudy)
   - [Document 2](https://www.slideshare.net/PasinduTennage/sample-software-engineering-feasibility-study-report)

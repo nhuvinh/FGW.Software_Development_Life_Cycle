@@ -1,8 +1,8 @@
 # Software Development Life Cycle
 
 ### Author: Vinh Hoang
-### Google Drive: tbd
-### [Document](Documents.md)
+### [Google Drive](https://drive.google.com/drive/u/1/folders/1Ti7IbtWoR3QMZ1XwPFpqYrvfM8sYRQpa)
+### [Documents to read](Documents.md)
 ### Team structure
 - Team 1:
 - Team 2:
@@ -16,9 +16,10 @@
 - Sequential Model
   - Waterfall
   - V-model
-- Iterative Model
+- Iterative & Incremental Model
   - Scrum
   - Sprial Model
+  - Rapid Application Development (RAD)
 - Team discussion
   - Definition
   - Roles 
@@ -27,13 +28,14 @@
   - Disadvantages / Risk
   - Examples
 ### Week 2
- - Feasibility Report
- - Team discussion
+- Feasibility Report Introduction
+- Team discussion
   - Steps to make a Feasibility Report
     - Inputs
     - Outputs
   - Components of a Feasibility Report
     - Give real examples
+- Assignment 1 Introduction
 ### Week 3 & 4 - Steps to build a software application
   - Requirements / Planning
     - Techniques to collect requirements
@@ -66,6 +68,8 @@
         - Data Flow digram
         - Entity Relationship diagram
         - Finite State Machine
+        - Activity Diagram
+      - Pseudo code
     - Example of outputs
   - Implementation
     - Who will invole in this phase
@@ -94,13 +98,16 @@
     - Inputs of this phase
     - Outputs of this phase
     - Example of outputs
+- Introduction to Assignment 2
 ### Week 5
 - Approach to improve Software quality
   - Test Driven Development
   - XP Programming
-- Introduction to Assignments
+- Assignment 1 - Review
+- Assignment 1 - Deadline
 ### Week 6
-- Assignments 1 and 2
+- Assignment 1 - 2nd Chance
+- Assignment 2 - Review
 ### Week 7 
-- Assignment 1 and 2 (cnt.)
-- Feedbacks and 2nd Chance
+- Assignment 2 - 2nd chance
+- Assignment 2 - Deadline
