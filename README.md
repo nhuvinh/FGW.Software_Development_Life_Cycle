@@ -1,7 +1,7 @@
 # Software Development Life Cycle
 
 ### Author: Vinh Hoang
-### [Google Drive](https://drive.google.com/drive/u/1/folders/1Ti7IbtWoR3QMZ1XwPFpqYrvfM8sYRQpa)
+### [Google Drive](https://drive.google.com/drive/folders/1X9De-5pgxBFnbYyX9slI6IDsUMiN29mP?usp=sharing)
 ### [Documents to read](Documents.md)
 ### Team structure
 - Team 1: Nghĩa Hưng, Hồng Việt, Quang Nhất, Vĩnh Hoàng, Việt Anh
