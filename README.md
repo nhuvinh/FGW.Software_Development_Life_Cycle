@@ -4,10 +4,10 @@
 ### [Google Drive](https://drive.google.com/drive/u/1/folders/1Ti7IbtWoR3QMZ1XwPFpqYrvfM8sYRQpa)
 ### [Documents to read](Documents.md)
 ### Team structure
-- Team 1:
-- Team 2:
-- Team 3:
-- Team 4:
+- Team 1: Nghĩa Hưng, Hồng Việt, Quang Nhất, Vĩnh Hoàng, Việt Anh
+- Team 2: Văn Quý, Ngọc Linh, Quang Tùng, Văn Huy, Minh Hoàng,
+- Team 3: Sỹ Long, Nhật Minh, Thế Thanh, Văn Thìn, Xuân Thống
+- Team 4: Quốc Hoàn, Hữu Thiện, Văn Quý, Trần Huy, Tư Khoa
 
 ## Agenda
 
