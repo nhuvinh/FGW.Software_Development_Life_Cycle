@@ -27,7 +27,6 @@
   - Advantages
   - Disadvantages / Risk
   - Examples
-### Week 2
 - Feasibility Report Introduction
 - Team discussion
   - Steps to make a Feasibility Report
@@ -35,6 +34,8 @@
     - Outputs
   - Components of a Feasibility Report
     - Give real examples
+### Week 2
+- Feasibility Report - Presentation (cnt.)
 - Assignment 1 Introduction
 ### Week 3 & 4 - Steps to build a software application
   - Requirements / Planning
@@ -52,6 +53,7 @@
       - Quality Management
       - Resources Management
       - Resource Management
+      - Software Requirements Specifications
     - Example of outputs
   - Design
     - Techniques to design the application
@@ -62,7 +64,6 @@
       - Mockup / Wireframe
         - Prototyping
         - Tools to make Mockup / Wireframe
-      - Software Requirements Specifications
       - UML Diagrams
         - Use case diagram
         - Data Flow digram
