@@ -25,6 +25,8 @@
   - [Document 2](https://www.slideshare.net/PasinduTennage/sample-software-engineering-feasibility-study-report)
   - [Document 3](https://mymanagementguide.com/feasibility-study-reporting-steps-to-writing-a-feasibility-study-report-fsr/)
   - [Document 4](https://www.rowan.edu/home/sites/default/files/Rohrer%20College%20of%20Business/feasibility-study.pdf)
+- [Software Requirements Specifications](http://www.cs.toronto.edu/~sme/CSC340F/slides/17-specifications.pdf)
+    - [Sample](http://www.cci.drexel.edu/SeniorDesign/2016_2017/Als/ConnectomeSRS.pdf)
 - Git and Source Version Control
   - [Document](https://courses.cs.washington.edu/courses/cse403/15sp/lectures/L5.pdf)
   - [Video 1](https://www.youtube.com/watch?v=OqmSzXDrJBk)
