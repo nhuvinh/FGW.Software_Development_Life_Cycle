@@ -23,8 +23,6 @@ namespace TestNinja.UnitTest
 
 								// Teardown
 
-
-
 								[Test]
 								[Ignore("Because I wanted to")]
 								public void Add_WhenCalled_ReturnTheSumOfArguments()
@@ -65,5 +63,21 @@ namespace TestNinja.UnitTest
 								//				Assert.That(result, Is.EqualTo(1));
 
 								//}
+
+								[Test]
+								public void GetOddNumbers_LimitGreaterThanZero_ReturnOddNumbersUpToLimit()
+								{
+												var result = _math.GetOddNumbers(5);
+
+												//Assert.That(result, Is.Not.Empty);
+												//Assert.That(result.Count, Is.EqualTo(5));
+												//Assert.That(result, Does.Contain(1));
+												//Assert.That(result, Does.Contain(3));
+												//Assert.That(result, Does.Contain(5));
+
+												Assert.That(result, Is.EquivalentTo(new[] {1, 3, 5}));
+
+
+								}
 				}
 }
