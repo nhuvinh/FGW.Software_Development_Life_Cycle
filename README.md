@@ -9,9 +9,9 @@
 ### Team structure
 
 - Team 1: Tran Dinh Minh, Vo Quoc Huy, Nguyen Tran Hieu, Le Thanh Hung, Luong Duc Canh, Vu Dinh Nghia Hung
-- Team 2: Nguyen Minh Tri, Pham Tan Vu, Bui Quoc Dat, Huynh Tan Khoa, Le Duy Tai, Nguyen Tran Khanh Duy
+- Team 2: Nguyen Minh Tri, Pham Tan Vu, Bui Quoc Dat, Huynh Tan Khoa, Le Duy Tai
 - Team 3: Bui Van Binh, Tran Dang Quang, Ngo Hoang Thanh, Le Dinh Hieu, Ho Ngoc Thien, Nguyen The Quy, Duong Tran Khoi Nguyen
-- Team 4 (Mixi Tribe): Nguyen Dang Hung, Vo Thanh Thien, Luong Thanh Cuong, Phan The Khai, Nguyen Van Thien Phu, Tran Huu Thuc Nguyen
+- Team 4 (Mixi Tribe): Nguyen Dang Hung, Vo Thanh Thien, Luong Thanh Cuong, Phan The Khai, Nguyen Van Thien Phu, Tran Huu Thuc Nguyen, Nguyen Tran Khanh Duy
 - Team 5: Vo Ngoc Hung, Nguyen Duc Quang, Ho Xuan Hong, Le Thanh Nam, Huynh Thi Thuy Nga, Nguyen Linh Chi, Dinh Duc Thuan
 
 ## Agenda
